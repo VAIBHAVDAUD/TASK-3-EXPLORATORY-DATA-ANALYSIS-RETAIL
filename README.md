@@ -22,3 +22,12 @@ TASK-1- Prediction using Supervised ML
 This is a simple linear regression task as it involves just 2 variables.
 
 DATASET USED: http://bit.ly/w-data
+
+TASK-2- Prediction using Unsupervised ML
+
+1) From the given ‘Iris’ dataset, predict the optimum number of clusters
+and represent it visually.
+
+DATASET : https://bit.ly/3kXTdox
+
+
